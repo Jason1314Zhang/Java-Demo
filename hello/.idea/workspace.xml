@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7eb9335-9788-40de-a44c-cf7d99fae1b4" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b7eb9335-9788-40de-a44c-cf7d99fae1b4" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="350" />
     <option name="y" value="75" />
     <option name="width" value="1920" />
@@ -186,16 +183,15 @@
       <workItem from="1594542620057" duration="5617000" />
       <workItem from="1594816090897" duration="6000" />
       <workItem from="1594816102036" duration="122000" />
-      <workItem from="1594816504752" duration="375000" />
+      <workItem from="1594816504752" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8158000" />
+    <option name="totallyTimeSpent" value="8370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.516129" visible="true" weight="0.17402206" />
       <window_info id="Image Layers" order="1" />
